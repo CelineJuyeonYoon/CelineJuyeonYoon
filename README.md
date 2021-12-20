@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2A34D3&height=300&section=header&text=Juyeon Yoon&fontSize=70&fontColor=fff" />
 </p>
@@ -16,3 +17,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelineJuyeonYoon&&show_icons=true&theme=swift)
 
+</div>
